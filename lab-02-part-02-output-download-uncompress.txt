@@ -65,7 +65,7 @@ $ echo *
 
 What happens?
 ----------
--bash: *: command not found
+Desktop Documents Downloads Library Movies Music My Song.band Pictures Public Sites Things VirtualBox VMs mtec1002-lab-02 secret secret.tar.gz stuff vms
 
 
 ==========
