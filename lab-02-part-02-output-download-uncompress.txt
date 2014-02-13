@@ -152,6 +152,9 @@ curl -o mtec1002-lab-02.zip http://foureyes.github.io/mtec1002-spring2014/labs/0
 Write down the command that you used to uncompress the file.
 ----------
 unzip
+% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  935k  100  935k    0     0   934k      0  0:00:01  0:00:01 --:--:--  934k
 
 
 ==========
